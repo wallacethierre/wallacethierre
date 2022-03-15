@@ -6,7 +6,7 @@
 
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallacethierre09@gmail.com)](mailto:wallacethierre09@gmail.com) How to reach me **wallacethierre09@gmail.com**
 
-- [![linkedin](https://img.shields.io/badge/-wallacethierre-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-lima-1130691b/)
+- [![linkedin](https://img.shields.io/badge/-wallacethierre-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-lima-1130691b/)[https://www.linkedin.com/in/wallacelima]https://www.linkedin.com/in/wallace-lima-1130691b/
 
 - 👨‍💻 All of my projects are available at **https://github.com/wallacethierre**
 
