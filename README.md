@@ -2,14 +2,15 @@
 
 - 🔭 I’m worked on **Android projects**
 
-- 📝 To mantein uptudate with libraries, archtecture and API regularly read articles on [https://medium.com/](https://medium.com/)[https://developer.android.com/](https://developer.android.com/)
+- 📝 To mantein uptudate with libraries, archtecture and API regularly read articles on [https://medium.com/](https://medium.com/) and [https://developer.android.com/](https://developer.android.com/)
 
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallacethierre09@gmail.com)](mailto:wallacethierre09@gmail.com) How to reach me **wallacethierre09@gmail.com**
 
 - [![linkedin](https://img.shields.io/badge/-wallacethierre-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-lima-1130691b/) [Wallace Lima](https://www.linkedin.com/in/wallace-lima-1130691b/)
 
-- 👨‍💻 All of my projects are available at **https://github.com/wallacethierre**
-
+- 👨‍💻 All of my projects are available at [**https://github.com/wallacethierre**](https://github.com/wallacethierre?tab=repositories)
+</br>
+</br>
 </br>
 
 <a href="https://github.com/wallacethierre?tab=repositories&q=&type=source">
