@@ -2,7 +2,7 @@
 
 - 🔭 I’m worked on **Android projects**
 
-- 📝 To mantein uptudate with libraries, archtecture and API regularly read articles on [https://medium.com/](https://medium.com/@wallacethierre) and [https://developer.android.com/](https://developer.android.com/)
+- 📝 To maintein up to date with libraries, archtecture and API regularly read articles on [https://medium.com/](https://medium.com/@wallacethierre) and [https://developer.android.com/](https://developer.android.com/)
 
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallacethierre09@gmail.com)](mailto:wallacethierre09@gmail.com) How to reach me **wallacethierre09@gmail.com**
 
