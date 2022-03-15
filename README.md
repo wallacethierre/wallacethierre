@@ -2,7 +2,7 @@
 
 - 🔭 I’m worked on **Android projects**
 
-- 📝 To mantein uptudate with libraries, archtecture and API regularly read articles on [https://medium.com/](https://medium.com/) and [https://developer.android.com/](https://developer.android.com/)
+- 📝 To mantein uptudate with libraries, archtecture and API regularly read articles on [https://medium.com/](https://medium.com/@wallacethierre) and [https://developer.android.com/](https://developer.android.com/)
 
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallacethierre09@gmail.com)](mailto:wallacethierre09@gmail.com) How to reach me **wallacethierre09@gmail.com**
 
@@ -10,13 +10,12 @@
 
 - 👨‍💻 All of my projects are available at [**https://github.com/wallacethierre**](https://github.com/wallacethierre?tab=repositories)
 </br>
-</br>
-</br>
 
 <a href="https://github.com/wallacethierre?tab=repositories&q=&type=source">
   <img align="top" alt="Djaca's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacethierre&layout=compact" />
 </a>
-
+</br>
+</br>
 <a href="https://github.com/wallacethierre?tab=repositories&q=&type=source">
   <img alt="Djaca's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wallacethierre&count_private=true&show_icons=true" />
 </a>
